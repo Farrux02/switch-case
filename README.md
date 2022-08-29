@@ -1,1 +1,1 @@
-[Deploy](farrux02.github.io/switch-case/)
+[Deploy](https://farrux02.github.io/switch-case/)
